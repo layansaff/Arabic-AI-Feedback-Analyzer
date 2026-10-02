@@ -23,3 +23,6 @@ An Arabic feedback analysis application built with Python and Streamlit.
 
 ## Project Note
 Sentiment classification currently uses predefined Arabic keywords. It is a rule-based approach, not a trained machine learning model.
+## Live Demo
+
+[Open the Arabic AI Feedback Analyzer](https://arabic-ai-feedback-analyzer-zdn.streamlit.app)
